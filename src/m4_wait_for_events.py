@@ -486,7 +486,7 @@ def wait_for_sum_of_cubes(x):
     #   Note that you should write its TEST function first (above).
     #
     # IMPLEMENTATION REQUIREMENT:
-    #   -- Solve this using the   wait-until-event   pattern. 
+    #   -- Solve this using the   wait-until-event   pattern.  
     #
     # Note for the mathematically inclined:  One could figure out
     # (or look up) a formula that would allow a faster computation.
